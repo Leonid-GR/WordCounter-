@@ -1,5 +1,4 @@
-package org.example;
-
+import org.example.WordCounter;
 import org.junit.jupiter.api.Test;
 
 import java.util.Map;
